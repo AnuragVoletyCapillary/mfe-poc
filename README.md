@@ -5,5 +5,5 @@
 3. ras-host and ras-remote are 2 react applications initialized using atomic-starter from [cap-react-starter-v2](https://github.com/Capillary/cap-react-starter-v2/tree/atomic-starter)
 
 
-Checkout ras-host on how it imports a Label component from ras-remote.
-Checkout ras-remote on how it exposes a Label component.
+Checkout ras-host on how it imports a Label component from ras-remote in webpack.base.babel.js.
+Checkout ras-remote on how it exposes a Label component in webpack.base.babel.js.
